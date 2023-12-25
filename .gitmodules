@@ -1,0 +1,3 @@
+[submodule "Test-Server-Config"]
+	path = Test-Server-Config
+	url = https://github.com/chrome-s-test/Test-Server-Config.git
